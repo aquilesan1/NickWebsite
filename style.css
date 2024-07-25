@@ -1,0 +1,122 @@
+body {
+	
+	background-color: Gray;
+}
+
+h1 {
+	color: black;
+}
+
+table {
+	
+	border: 3px solid white;
+	border-radius: 3px;
+}
+
+a {
+	
+	color: white;
+}
+
+img {
+	
+	border: 3px solid white;
+	width: 60%;
+	height: 30%;
+	border-radius: 3px;
+}
+
+hr {
+	
+	border: 3px solid white;
+	border-radius: 3px;
+}
+
+.div1 {
+	background-color: #E8E8E8;
+	top: 0px;
+	position: absolute;
+	width: 15%;
+	height: 8%;
+}
+
+.div2 {
+	top: 3%;
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+}
+
+.div3 {
+
+	background-color: #E8E8E8;
+	width:15%;
+	height: 8%;
+	position: absolute;
+	border-radius: 3px;
+}
+
+.div4 {
+	
+	float: left;
+	background-color: #99ff99;
+	display: table-cell;
+	width: 20%;
+}
+
+.div5 {
+	
+	float: left;
+	background-color: #E8E8E8;
+	display: table-cell;
+	width: 20%;
+}
+
+.div6 {
+	
+	float: left;
+	background-color: #99ff99;
+	display: table-cell;
+	width: 20%;
+}
+
+.div7 {
+	
+	float: left;
+	background-color: #E8E8E8;
+	display: table-cell;
+	width: 20%;
+}
+
+.div8 {
+	
+	float: left;
+	background-color: gray;
+	display: table-cell;
+	width: 10%;
+}
+
+.div9 {
+	
+	background-color: #E8E8E8;
+	width: 16%;
+	position: absolute;
+	left: 2%;
+	border-radius: 3px;
+}
+
+.container {
+	
+	display: table;
+	width: 100%;
+	align-items: center;
+	
+}
+
+.a1 {
+	
+	text-decoration: none;
+}
