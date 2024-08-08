@@ -386,7 +386,7 @@
 	.teamWrapper {
 		
 		grid-template-columns: 1fr;
-		grid-template-rows:auto;
+		grid-template-rows: auto;
 	}
 	
 	.teamText:nth-child(1) {
